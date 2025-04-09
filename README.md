@@ -1,7 +1,7 @@
-### Hi there 👋 am Glo!
+### Hi there 👋 am Ojijo!
 
 # 💫 About Me:
-# Software Engineer | Problem Solver | Tech Enthusiast
+# Software Engineer | Problem Solver | Tech Enthusiast | Freelancer | Computer Specialist
 🚀 Passionate about creating clean, efficient, and scalable software solutions</br>
 🌐 Specialized in web development, android development, machine learning. Constantly exploring new technologies and frameworks.</br>
 🛠️ Proficient with Git </br>
